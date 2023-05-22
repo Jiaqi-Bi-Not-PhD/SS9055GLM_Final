@@ -1,0 +1,201 @@
+Site,x,y,Elevation,River,Terrain,Vegetation,Count
+1,11,47,1,FALSE,beach,none,0
+2,11,64,1,FALSE,beach,none,0
+3,12,48,1,FALSE,beach,none,0
+4,12,72,1,FALSE,beach,none,0
+5,14,49,3,FALSE,beach,none,0
+6,14,55,2,FALSE,beach,none,0
+7,14,75,1,FALSE,beach,none,0
+8,15,39,1,FALSE,beach,none,0
+9,15,41,1,FALSE,beach,none,0
+10,15,44,1,FALSE,beach,none,0
+11,15,48,3,FALSE,beach,none,0
+12,16,31,1,FALSE,beach,none,0
+13,16,65,2,FALSE,beach,none,0
+14,17,30,2,FALSE,beach,none,0
+15,18,42,5,FALSE,beach,none,0
+16,18,62,4,FALSE,beach,none,0
+17,20,49,14,FALSE,soil,lowland forest,3
+18,21,28,1,FALSE,beach,none,0
+19,21,35,6,FALSE,rock,lowland forest,0
+20,22,36,11,FALSE,soil,lowland forest,0
+21,22,38,15,FALSE,soil,lowland forest,0
+22,22,44,30,FALSE,soil,lowland forest,4
+23,22,62,15,FALSE,rock,lowland forest,1
+24,23,29,2,FALSE,beach,none,0
+25,23,44,36,FALSE,soil,lowland forest,3
+26,23,57,25,FALSE,soil,lowland forest,1
+27,24,40,19,FALSE,soil,lowland forest,3
+28,24,50,45,FALSE,soil,lowland forest,1
+29,24,59,45,FALSE,soil,lowland forest,6
+30,25,46,65,FALSE,soil,lowland forest,4
+31,25,47,49,FALSE,rock,lowland forest,0
+32,25,74,4,FALSE,beach,none,0
+33,25,79,1,FALSE,beach,none,0
+34,26,49,59,FALSE,soil,lowland forest,1
+35,27,42,77,FALSE,soil,lowland forest,2
+36,28,34,37,FALSE,soil,lowland forest,0
+37,28,52,129,FALSE,rock,lowland forest,0
+38,30,15,1,FALSE,beach,none,0
+39,31,16,2,FALSE,beach,none,0
+40,31,62,124,FALSE,soil,lowland forest,7
+41,32,27,22,FALSE,soil,lowland forest,2
+42,32,45,263,FALSE,soil,upland forest,1
+43,32,52,305,FALSE,soil,upland forest,0
+44,33,15,3,FALSE,beach,none,0
+45,33,45,285,FALSE,rock,upland forest,1
+46,33,57,329,FALSE,soil,upland forest,2
+47,33,77,17,FALSE,soil,lowland forest,1
+48,34,27,30,FALSE,soil,lowland forest,0
+49,35,42,335,FALSE,soil,upland forest,2
+50,35,50,499,FALSE,soil,upland forest,0
+51,35,55,471,FALSE,rock,upland forest,0
+52,35,59,390,TRUE,soil,upland forest,92
+53,35,60,317,TRUE,rock,upland forest,3
+54,36,33,119,FALSE,soil,lowland forest,0
+55,36,63,288,TRUE,soil,upland forest,5
+56,37,45,563,FALSE,rock,alpine meadow,0
+57,38,24,27,FALSE,soil,lowland forest,3
+58,38,39,388,FALSE,soil,upland forest,4
+59,38,45,655,FALSE,rock,alpine meadow,0
+60,38,47,695,FALSE,rock,alpine meadow,0
+61,38,75,46,FALSE,rock,lowland forest,0
+62,39,75,50,TRUE,rock,lowland forest,4
+63,40,19,9,FALSE,rock,lowland forest,1
+64,40,74,43,TRUE,soil,lowland forest,28
+65,41,16,3,FALSE,beach,none,0
+66,41,40,571,FALSE,soil,alpine meadow,1
+67,41,61,621,FALSE,rock,alpine meadow,0
+68,41,87,2,FALSE,beach,none,0
+69,42,23,30,FALSE,soil,lowland forest,1
+70,42,32,210,TRUE,soil,upland forest,18
+71,42,74,82,FALSE,soil,lowland forest,16
+72,43,40,658,FALSE,rock,alpine meadow,0
+73,43,57,958,FALSE,rock,alpine meadow,0
+74,43,65,373,FALSE,soil,upland forest,3
+75,43,87,1,FALSE,beach,none,0
+76,44,20,13,FALSE,soil,lowland forest,3
+77,44,45,1093,FALSE,glacial,none,0
+78,44,47,1129,FALSE,glacial,none,0
+79,44,48,1196,FALSE,rock,none,0
+80,44,62,634,FALSE,soil,alpine meadow,0
+81,44,76,59,FALSE,soil,lowland forest,5
+82,44,83,15,FALSE,soil,lowland forest,5
+83,45,24,41,FALSE,rock,lowland forest,0
+84,45,60,857,FALSE,glacial,alpine meadow,0
+85,45,65,479,FALSE,rock,upland forest,1
+86,45,91,1,FALSE,beach,none,0
+87,46,17,8,FALSE,soil,lowland forest,0
+88,46,24,50,FALSE,soil,lowland forest,0
+89,46,28,113,FALSE,rock,lowland forest,2
+90,46,82,17,FALSE,rock,lowland forest,1
+91,46,88,2,FALSE,beach,none,0
+92,47,16,6,FALSE,soil,lowland forest,0
+93,47,30,212,FALSE,soil,upland forest,4
+94,47,78,41,FALSE,soil,lowland forest,6
+95,48,24,56,FALSE,soil,lowland forest,2
+96,48,35,446,FALSE,soil,upland forest,2
+97,48,52,1495,FALSE,glacial,none,0
+98,48,73,121,FALSE,soil,lowland forest,7
+99,49,25,66,FALSE,rock,lowland forest,1
+100,49,32,276,FALSE,soil,upland forest,0
+101,49,35,456,FALSE,rock,upland forest,0
+102,49,45,1345,FALSE,glacial,none,0
+103,49,60,937,FALSE,rock,alpine meadow,0
+104,50,28,133,FALSE,soil,lowland forest,0
+105,50,86,2,FALSE,beach,none,0
+106,52,53,1386,FALSE,glacial,none,0
+107,52,64,640,FALSE,rock,alpine meadow,0
+108,52,83,10,FALSE,soil,lowland forest,0
+109,53,37,604,TRUE,soil,alpine meadow,0
+110,53,43,1114,FALSE,glacial,none,0
+111,53,68,340,TRUE,rock,upland forest,2
+112,54,22,28,FALSE,soil,lowland forest,1
+113,54,33,348,TRUE,soil,upland forest,21
+114,54,86,3,FALSE,beach,none,0
+115,56,64,542,FALSE,rock,alpine meadow,0
+116,56,83,9,FALSE,soil,lowland forest,0
+117,57,13,1,FALSE,beach,none,0
+118,57,74,94,FALSE,soil,lowland forest,2
+119,57,77,30,FALSE,soil,lowland forest,3
+120,57,81,10,FALSE,soil,lowland forest,2
+121,58,25,51,FALSE,rock,lowland forest,1
+122,58,32,237,FALSE,soil,upland forest,3
+123,58,44,926,TRUE,rock,alpine meadow,0
+124,58,51,1138,FALSE,glacial,none,0
+125,59,9,1,FALSE,beach,none,0
+126,59,16,3,FALSE,beach,none,0
+127,59,45,960,FALSE,rock,alpine meadow,0
+128,59,53,1047,FALSE,glacial,none,0
+129,60,44,752,TRUE,rock,alpine meadow,1
+130,61,30,114,FALSE,soil,lowland forest,7
+131,62,11,1,FALSE,beach,none,0
+132,62,44,644,FALSE,rock,alpine meadow,0
+133,63,65,240,FALSE,rock,upland forest,1
+134,64,19,12,FALSE,soil,lowland forest,1
+135,64,83,3,FALSE,beach,none,0
+136,65,29,68,TRUE,soil,lowland forest,69
+137,65,66,182,FALSE,soil,lowland forest,15
+138,66,72,47,TRUE,soil,lowland forest,26
+139,67,25,16,FALSE,soil,lowland forest,0
+140,67,46,394,FALSE,soil,upland forest,1
+141,67,48,393,FALSE,soil,upland forest,0
+142,67,74,33,TRUE,soil,lowland forest,40
+143,68,37,132,TRUE,soil,lowland forest,102
+144,68,52,373,FALSE,soil,upland forest,2
+145,68,66,113,FALSE,soil,lowland forest,2
+146,69,30,42,TRUE,soil,lowland forest,68
+147,69,39,141,FALSE,soil,lowland forest,3
+148,70,16,1,FALSE,beach,none,0
+149,70,28,22,TRUE,soil,lowland forest,79
+150,70,86,1,FALSE,beach,none,0
+151,71,39,113,FALSE,rock,lowland forest,2
+152,71,66,67,TRUE,rock,lowland forest,12
+153,71,76,10,FALSE,soil,lowland forest,6
+154,72,59,112,FALSE,soil,lowland forest,6
+155,72,77,5,FALSE,beach,none,0
+156,72,83,1,FALSE,beach,none,0
+157,73,21,1,FALSE,beach,none,0
+158,73,27,16,FALSE,soil,lowland forest,2
+159,73,43,96,FALSE,soil,lowland forest,2
+160,73,57,104,FALSE,soil,lowland forest,17
+161,73,66,55,FALSE,soil,lowland forest,3
+162,73,84,1,FALSE,beach,none,0
+163,74,20,2,FALSE,beach,none,0
+164,75,63,48,FALSE,soil,lowland forest,3
+165,76,21,1,FALSE,beach,none,0
+166,76,23,1,FALSE,beach,none,0
+167,76,70,8,FALSE,soil,lowland forest,0
+168,77,25,2,TRUE,beach,none,0
+169,77,60,30,FALSE,soil,lowland forest,6
+170,78,24,4,TRUE,beach,none,0
+171,78,34,13,FALSE,soil,lowland forest,0
+172,78,72,6,TRUE,soil,lowland forest,92
+173,79,23,1,FALSE,beach,none,0
+174,79,50,34,FALSE,rock,lowland forest,1
+175,79,53,32,FALSE,soil,lowland forest,9
+176,80,66,10,FALSE,soil,lowland forest,9
+177,80,69,3,FALSE,beach,none,0
+178,81,23,1,FALSE,beach,none,0
+179,81,50,25,FALSE,soil,lowland forest,5
+180,81,64,7,FALSE,soil,lowland forest,3
+181,82,37,4,FALSE,beach,none,0
+182,82,62,8,FALSE,soil,lowland forest,1
+183,82,73,2,FALSE,beach,none,0
+184,83,56,7,FALSE,soil,lowland forest,4
+185,83,73,2,FALSE,beach,none,0
+186,83,76,1,FALSE,beach,none,0
+187,84,51,8,FALSE,soil,lowland forest,7
+188,84,58,8,FALSE,soil,lowland forest,5
+189,85,32,1,FALSE,beach,none,0
+190,85,42,3,FALSE,beach,none,0
+191,87,39,1,FALSE,beach,none,0
+192,87,46,3,FALSE,beach,none,0
+193,87,61,1,FALSE,beach,none,0
+194,88,63,1,FALSE,beach,none,0
+195,88,64,1,FALSE,beach,none,0
+196,88,70,1,FALSE,beach,none,0
+197,90,49,1,FALSE,beach,none,0
+198,90,58,1,FALSE,beach,none,0
+199,91,67,1,FALSE,beach,none,0
+200,96,62,1,FALSE,beach,none,0
